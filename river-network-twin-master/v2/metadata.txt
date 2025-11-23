@@ -2,14 +2,9 @@
 name=Underground Ecosystem Toolkit
 qgisMinimumVersion=3.22
 version=1.0
-author=Cheng
-email=
-description=Toolkit for underground river detection, bankline extraction, flood protection zones, erosion risk zones, and weathering detection.
+author=spbu
 category=Analysis
 icon=icon.png
-type=processing
-experimental=False
-deprecated=False
 
 [about]
 This plugin provides hydrological and geomorphological analysis for:
